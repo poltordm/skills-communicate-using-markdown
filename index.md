@@ -22,3 +22,7 @@ def Fibonacci(n):
 
 print(Fibonacci(9))
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [X] Eat cookie
